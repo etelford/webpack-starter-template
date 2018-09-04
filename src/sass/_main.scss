@@ -1,0 +1,10 @@
+$primary: yellow;
+$secondary: pink;
+
+body {
+	background: $primary;
+
+	.hello {
+		background: $secondary;
+	}
+}
